@@ -13,8 +13,8 @@ It lets you store your code on the internet, share with others, and work togethe
 
 
 ## Step 1: Prerequisited
-- You have create GitHub account.
-- You have configure you ssh connection.
+- You have created GitHub account.
+- You have configure your ssh connection.
 - You have installed
   - git
   - VS code (optional but recommended)
