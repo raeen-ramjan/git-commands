@@ -177,12 +177,10 @@ git cherry-pick <commit-hash (E)>
 
 - Hotfix from another branch
 
-<<<<<<< HEAD
 # Rebse vs Merge
 **Rebase**: Move your branch to a new base commit by replaying its commits on top of another branch.
 - Linear history
 - Cleaner project history
-=======
 ## Before Rebase:
 ```bash
 # main:     A---B---E 
@@ -214,7 +212,6 @@ git merge feature
 git switch main
 git merge feature
 ```
->>>>>>> d7e05ca (rebase vs merge)
 
 # Fork git repository from internet and contribute/merge to main branch of original repo
 ## Step 1: Fork git repository from internet
